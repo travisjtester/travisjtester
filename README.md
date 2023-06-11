@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @travisjtester
-- 📊 I'm a Healthcare Data Analyst and Tableau Specialist
+- 📊 I'm a Data Analyst, Data Viz Specialist, & Information Designer
 - 👀 I’m interested in Data Science, Design, & Development
-- 🌱 I’m currently studying Computer Science (Harvard CS50), Snowflake, and AWS.
-- 🤝 I’m looking to collaborate on DVS projects, Viz for Social Good, Kaggle Competitions, or any other data journalism projects!
+- 🌱 I’m currently creating indie games to learn Computer Science.
+- 🤝 I’m looking to collaborate on indie game dev jams or any other data journalism projects!
 - 📫 How to reach me: LinkedIn, Behance, or Instagram is best!
 
 <!---
