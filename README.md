@@ -2,7 +2,7 @@
 - 📊 I'm an Business Intelligence Analytics Engineer & Information Designer
 - ✨ I'm the principal of Vivify Datacraft, a boutique analytics solutions company
 - 👀 I’m interested in Technology, Finance, and Video Games
-- 🌱 I’m currently learning to creating indie game devs for fun using Pico-8
+- 🌱 I’m currently learning to create a home lab on a NAS
 - 🤝 I’m looking to collaborate on data journalism projects, indie-dev game jams, or BI/decision intelligence solutions
 - 📫 How to reach me: LinkedIn is best
 
